@@ -22,8 +22,8 @@
 
 ## 公式リンク
 - 🌐 [バリデータ情報（IRIS HUB Blockchain Explorer）](https://irishub.iobscan.io/#/staking/validators/iva1sl3q5rq0tlywxy8nks6uw48etev7nccnfs6h00)  
-- 🐦 [オペレーター X (旧Twitter)](https://x.com/lgsyukisugiyana)  
-- 💬 [オペレーター Telegram](https://t.me/YukiSugiyana)
+- 🐦 [オペレーター X (旧Twitter)](https://x.com/lgsyukisugiyama)  
+- 💬 [オペレーター Telegram](https://t.me/YukiSugiyama)
 
 ---
 
