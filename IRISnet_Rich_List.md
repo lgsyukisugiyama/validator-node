@@ -1,4 +1,4 @@
-### IRISnet Rich List
+### IRISnet Rich List(2025/7/21)
 
 1 Bonded Tokens Pool
 https://irishub.iobscan.io/#/address/iaa1fl48vsnmsdzcv85q5d2q4z5ajdha8yu3qef7mx
