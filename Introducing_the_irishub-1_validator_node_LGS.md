@@ -12,4 +12,4 @@
 ## 公式リンク
 - 🌐 [バリデータ情報（IRIS HUB Blockchain Explorer）](https://irishub.iobscan.io/#/staking/validators/iva1sl3q5rq0tlywxy8nks6uw48etev7nccnfs6h00)  
 - 🐦 [オペレータ Xアカウント(旧Twitter)](https://x.com/lgsyukisugiyama)  
-- 💬 [オペレータ Telegramアカウント](https://t.me/YukiSugiyama)
+- 💬 [オペレータ Telegramアカウント](https://t.me/yukisugiyama)
