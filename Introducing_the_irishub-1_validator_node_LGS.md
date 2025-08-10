@@ -1,4 +1,4 @@
-# IRISnet Validator "LGS"
+## IRISnet Validator "LGS"
 
 ### 概要
 **"LGS / Japan Based"** は Cosmos-SDKベースのIRISnetブロックチェーンのバリデータとして、日本国内の高品質なクラウドインフラを利用し、2025年2月11日より運用を開始しました。
