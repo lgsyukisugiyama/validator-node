@@ -1,7 +1,10 @@
 ## IRISnet Validator "LGS"
 
-### 概要
+### バリデータ説明
 **"LGS / Japan Based"** は Cosmos-SDKベースのIRISnetブロックチェーンのバリデータとして、日本国内の高品質なクラウドインフラを利用し、2025年2月11日より運用を開始しました。
+
+### IRISnet(IRIS Hub)とは
+IRISnetは、新世代のDApps向けのインターチェーンNFT Hubです。IRIS Hubは、分散型ビジネスシステムをサポートするモジュールを提供しながら、ブロックチェーン間の相互運用性を実現します。
 
 ### バリデータ・オペレータ情報
 - **バリデータ名**: `LGS / Japan Based`  
